@@ -1,1 +1,2 @@
-"Hello, my dear friend!" 
+"Hello, my dear friend!"
+Second line created with the VIM editor
