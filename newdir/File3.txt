@@ -1,0 +1,2 @@
+Quality Assurance (QA) in simple words is a process of checking whether the software meets some special requirements and functions as planned. 
+It is a common practice for software companies to have a separate quality assurance department.
